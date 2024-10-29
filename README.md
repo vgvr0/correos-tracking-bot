@@ -1,7 +1,7 @@
 <h1 align="center">📦 Correos Track Bot</h1>
 
 <p align="center">
-  <img src="/api/placeholder/1200/300" alt="Correos Track Bot Banner">
+  <img src="imagen/Portada.png" alt="Correos Track Bot Banner">
 </p>
 
 <p align="center">
