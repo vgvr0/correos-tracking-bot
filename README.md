@@ -114,6 +114,16 @@ python correos_tracker.py
 - [Correos API](https://api1.correos.es) - API de seguimiento de Correos
 - [Requests](https://docs.python-requests.org/) - Cliente HTTP para Python
 
+## 🚀 Mejoras Futuras
+
+- [ ] Añadir soporte para varios idiomas en las notificaciones
+- [ ] Incluir autenticación de usuarios en Telegram
+- [ ] Ampliar la funcionalidad con nuevas APIs de seguimiento
+- [ ] Optimizar la frecuencia de chequeo para reducir el consumo de recursos
+- [ ] Mejorar el manejo de errores para conexiones inestables
+- [ ] Añadir pruebas unitarias para cada componente
+- [ ] Crear un sistema de alertas basado en tiempo estimado de entrega
+
 ## 📝 Licencia
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
