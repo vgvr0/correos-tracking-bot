@@ -33,6 +33,24 @@
 - 💾 **Persistencia de datos**: Los seguimientos se mantienen entre reinicios
 - 🔐 **Configuración segura**: Credenciales separadas del código principal
 
+## 📁 Estructura del Proyecto
+
+```plaintext
+proyecto/
+├── config.py           # Configuración y constantes
+├── correos_tracker.py  # Código principal
+├── .gitignore         # Archivos a ignorar en git
+├── tracking_data.pkl  # Se creará automáticamente
+└── __pycache__/      # Creado por Python
+```
+
+La estructura del proyecto es simple y modular:
+- `config.py`: Almacena todas las configuraciones y credenciales
+- `correos_tracker.py`: Contiene la lógica principal del bot
+- `.gitignore`: Especifica qué archivos no deben incluirse en el control de versiones
+- `tracking_data.pkl`: Archivo de datos generado automáticamente para persistencia
+- `__pycache__/`: Directorio de cache de Python (generado automáticamente)
+
 ## 🚀 Instalación
 
 1. Clona el repositorio:
