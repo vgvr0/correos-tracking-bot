@@ -1,4 +1,4 @@
-<h1 align="center">📦 Correos Track Bot</h1>
+<h1 align="center">📦 Correos Tracking Bot</h1>
 
 <p align="center">
   <img src="images/CorreosPortada.png" alt="Correos Track Bot Banner">
