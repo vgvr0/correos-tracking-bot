@@ -103,8 +103,7 @@ python correos_tracker.py
 ## 📸 Capturas de pantalla
 
 <p align="center">
-  <img src="/api/placeholder/300/500" alt="Demo Bot" width="300">
-  <img src="/api/placeholder/300/500" alt="Tracking Example" width="300">
+  <img src="images/CorreosTrackingBot.png" alt="Demo Bot" width="300">
 </p>
 
 ## 🛠️ Tecnologías utilizadas
